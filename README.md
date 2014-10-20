@@ -1,4 +1,4 @@
-jqassistant-rr
-==============
+jqassistant-rule-repository
+===========================
 
 jQAssistant Rule Repository
