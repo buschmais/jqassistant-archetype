@@ -1,4 +1,4 @@
-jqassistant-rule-repository
+jQAssistant Archetypes
 ===========================
 
-jQAssistant Rule Repository
+This project contains archetype projects for jQAssistant.
