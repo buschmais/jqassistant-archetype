@@ -18,7 +18,7 @@
             <plugin>
                 <groupId>com.buschmais.jqassistant.scm</groupId>
                 <artifactId>jqassistant-maven-plugin</artifactId>
-                <version>${org.jqassistant_version}</version>
+                <version>1.0.0</version>
 				<executions>
 					<execution>
 						<id>default</id>
