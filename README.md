@@ -1,6 +1,6 @@
 jQAssistant Archetypes
 ======================
-This project provides Maven archetypes for jQAssistant.
+This project provides Maven archetypes for [jQAssistant](http://jqassistant.org).
 
 Single Maven module project using jQAssistant
 ---------------------------------------------
