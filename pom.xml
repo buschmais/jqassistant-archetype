@@ -10,7 +10,7 @@
  <groupId>com.buschmais.jqassistant.archetype</groupId>
     <artifactId>jqassistant.archetype</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.1.0-SNAPSHOT</version>
 
     <url>https://github.com/buschmais/jqassistant-archetype</url>
     <description>jQAssistant Maven Archetypes</description>
@@ -62,7 +62,7 @@
 	
 	<properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>		
-        <org.jqassistant_version>1.0.0</org.jqassistant_version>
+        <org.jqassistant_version>1.1.0</org.jqassistant_version>
     </properties>
 	
     <modules>
