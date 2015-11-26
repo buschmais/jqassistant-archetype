@@ -9,7 +9,7 @@ Single Maven module project using jQAssistant
 mvn archetype:generate \
   -DarchetypeGroupId=com.buschmais.jqassistant.archetype \
   -DarchetypeArtifactId=jqassistant.archetype.project \
-  -DarchetypeVersion=1.0.1 \
+  -DarchetypeVersion=1.1.0 \
   -DgroupId=com.example \
   -DartifactId=project \
   -Dversion=1.0.0-SNAPSHOT
